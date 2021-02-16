@@ -4,3 +4,5 @@ Huhn
 Reis
 Curry 
 fertig
+
+Das ist eine Übung
